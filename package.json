@@ -2,20 +2,20 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://oleksandr-pik.github.io/goit-js-hw-08",
+  "homepage": "https://oleksandr-pik.github.io/goit-js-hw-10",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oleksandr-pik/goit-js-hw-08.git"
+    "url": "git+https://github.com/oleksandr-pik/goit-js-hw-10.git"
   },
   "keywords": [],
   "author": "Oleksandr-Pik <mail@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/oleksandr-pik/goit-js-hw-08/issues"
+    "url": "https://github.com/oleksandr-pik/goit-js-hw-10/issues"
   },
   "dependencies": {
     "@thatapicompany/thecatapi": "^1.0.2",
