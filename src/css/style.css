@@ -54,4 +54,8 @@
   .cat__breed-temperament{
     font-weight: 600;
   }
+
+  .error{
+    color: red;
+  }
   
